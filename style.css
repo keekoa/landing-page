@@ -129,6 +129,60 @@ a {
     align-items: center;
 }
 
+.quote {
+    width: 800px;
+}
+
+.message {
+    font-size: 30px;
+    color: rgb(85, 85, 85);
+    margin: 0;
+}
+
+.thor {
+    text-align: right;
+    color: #001d49;
+    font-size: 20px;
+}
+
+.section-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call {
+    width: 800px;
+    margin: 50px;
+    padding: 20px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.calling h3 {
+    margin: 0;
+}
+
+.call button {
+    border: 2.5px solid rgb(1, 175, 117);
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 15px;
+    font-size: 24px;
+}
 
 
 
